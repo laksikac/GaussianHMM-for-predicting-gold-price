@@ -1,2 +1,2 @@
 ﻿# GaussianHMM-for-predicting-gold-price
-นางสาวลักษิกา ดำแดง รหัสนักศึกษา 6310110417 sec01 รายวิชา 240-481
+Use Gaussian Hidden Markov Model to predict Gold price from dataset : "https://github.com/natsunoyuki/Data_Science/blob/master/gold/gold/gold_price_usd.csv?raw=True"
